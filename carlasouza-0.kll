@@ -1,0 +1,19 @@
+Name = "MD1";
+Layout = "Hacker";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2014";
+KLL = "0.3";
+Date = "2014-09-14";
+Generator = "KIICONF 0.1";
+
+U"BACKSLASH" : U"BACKSPACE";
+U"BACKTICK" : U"BACKSPACE";
+U"BACKSPACE" : U"BACKSLASH";
+U"FUNCTION1" : layerShift( 2 );
+U"FUNCTION2" : layerShift( 1 );
+U"LALT" : U"LGUI";
+U"LGUI" : U"LALT";
+U"RGUI" : layerShift( 1 );
+U"FUNCTION3" : U"RGUI";
+U"FUNCTION4" : U"BACKTICK";
+
