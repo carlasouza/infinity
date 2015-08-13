@@ -8,7 +8,12 @@ Generator = "KIICONF 0.1";
 
 U"A" : CONS"SCANPREVIOUSTRACK";
 U"D" : CONS"SCANNEXTTRACK";
+
+# URLs that I type frequently
 U"C" : U"c", U"a", U"r", U"l", U"a", U"s", U"o", U"u", U"z", U"a", U".", U"c", U"o", U"m";
 U"E" : U"c", U"o", U"n", U"t", U"a", U"c", U"t", U"RShift" + U"2", U"c", U"a", U"r", U"l", U"a", U"s", U"o", U"u", U"z", U"a", U".", U"c", U"o", U"m";
 
+# Tmux - split pane
+U"V" : U"LCtrl" + U"j", U"LShift" + U"5";
+U"H" : U"LCtrl" + U"j", U"LShift" + U"'", U"Space";
 
